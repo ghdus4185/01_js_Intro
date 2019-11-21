@@ -56,9 +56,9 @@
 // // 오브젝트를 만나면 소괄호나 중괄호로 닫음
 // let returnObject = () => ({key: 'value'})
 
-// 기명함수
-// const hello = (name="no name") => `hello ${name}`
-// console.log(hello())
+기명함수
+const hello = (name="no name") => `hello ${name}`
+console.log(hello())
 
 // 익명함수
 // (function (name) {
